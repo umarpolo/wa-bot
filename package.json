@@ -1,0 +1,11 @@
+{
+  "name": "wa-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "dependencies": {
+    "baileys": "^6.6.0"
+  },
+  "scripts": {
+    "start": "node bot.js"
+  }
+}
